@@ -66,4 +66,4 @@ If you use this code, please cite:
 > A. P. Z. Afnan, S. Hidayat, "A Study of Deep Learning for the Speech Recognition of Consonant–Vowel Readings in the Iqro' Method," *Turkish Journal of Mathematics and Computer Science*, 2026 (under review).
 
 ## License
-Code: MIT License. Contact: [e-mail]
+Code: MIT License. Contact: aiyaprimagani03@students.unnes.ac.id
